@@ -1,0 +1,5 @@
+bertilda;romero ramirez ;213349;medina;medico general ;d223;12-12-2022;2:00PM
+maria;tafurt;123545;medina;medico general ;d445;12-12-2022;2:00PM
+Fidela;Montenegro;222222222222;gonzalo Ramirez;a123 ;Opstetra;12-12-2023;8:00PM
+Daniel ;Reina;19283032332;Mauricio Ramirez;Odontologia;D223;12-03-1998;2:00PM
+Sergio;Damali;1923838382;Giroberto;Cardiologia;F140;12-12-2022;9:00AM

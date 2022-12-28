@@ -1,0 +1,5 @@
+Miguel ;Moreno ;1192731082;Medico General;12-03-2003;graduado de la universidad de columbia 
+Angel ;Romero;29542317;odontologia ;12-04-2003;graduado de la universida auntonoma de colombia
+Soraya;Ramirez;1843098274;Ginecologa;12-05-2003;graduado de la universidad de cartagena 
+Arbey;Daza Moreno;1111111111;Emfermero;13-02-1999;graduado del instituto la Saye 
+Ruben;Valderrama;184625382928;Neuro Cirujano;13-02-1999;graduado de la universida ICESI

@@ -1,0 +1,4 @@
+Daniel;Reina;175342893;Subsidiado;O positivo ;Asmesalut;A4
+Felipe;Cardona;1387293749;Contributivo;O negativo;Coomeva;C4
+Juan;Ramirez;17839274629;Subsidiado;AB positivo;Coosalud;B3
+Fidela;Cordova;18462085792;Contributivo;B negativa ;Ensanar;D8
